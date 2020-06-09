@@ -22,7 +22,7 @@ when you select a text node you can retrieve or amend the content of it using th
 
 -  The text content property allows you to collect our update just the test dead is and the containing element and its children
 
-##Adding elements using Dom manipulation
+## Adding elements using Dom manipulation
 1. create Element
 1. Give it content
 1. Add it to the dom
