@@ -1,5 +1,5 @@
 ## The item method
-- Selectng an element from a nodelist
+- Selecting an element from a nodelist
 - Select elements that have a class attribute whose value is hot and store the node list in a variable called elements
 1. Use the length property to check how many elements were found
 1. Store the first element from the NodeList in a variable called firstItem
@@ -7,7 +7,7 @@
 ## Array syntax
 - Create a nodeList containing elements that have a class attribute whose value is hot and store it in the variable elements. 
 - If that number is greater than or equal to one, run the inside the if statement
-Get the first element fromm the NodeList 
+Get the first element from the NodeList 
   - TheGetElementByClassName() method allows you to select elements whose class attribution contains a specific value
 
  - The getElementsByTagName() method allows you to select elements using their tag name
